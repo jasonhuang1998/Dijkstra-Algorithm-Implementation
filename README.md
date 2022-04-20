@@ -34,7 +34,7 @@ Consider the rectangle graph above, black blocks are regarded as obstacles. X is
     (start from (4, 14), and end at (12, 2))
 ## Output
 - rectangle graph in bit string on the screen.
-- Path parts are marked with different colors.
+- Path parts are marked with different colors.  
 ![](https://i.imgur.com/mzDvQqb.png)
 
 - output path steps by steps(ex. (4, 14)up, (4, 13)up, ...)
